@@ -1,2 +1,2 @@
 # Tindog
-A Startup Responsive Webpage using HTML,CSS and BootStrap.
+A Startup Company Responsive Webpage using HTML,CSS and BootStrap.
